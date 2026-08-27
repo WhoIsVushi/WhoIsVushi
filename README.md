@@ -86,17 +86,23 @@ Amacım;
 
 # 📂 Öne Çıkan Projeler
 
-### 🔐 Pass Generator
+###  📷 Gesture Launcher
 
-Güvenli parola üretme uygulaması
+Kamera üzerinden el hareketlerini algılayıp uygulama, klasör veya web sitesi açan masaüstü uygulaması.
 
-### 🌐 Page Translator Extension
+https://github.com/RissProg/GestureLauncher
 
-Tarayıcı çeviri uzantısı
+### 🏠 SmartHome Project Manager — SaaS
 
-### 📝 Editor App
+Akıllı ev entegratörleri, elektrik ve otomasyon firmaları için çok kiracılı (multi-tenant) proje, keşif, maliyet, teklif ve abonelik yönetim platformu.
 
-Modern masaüstü metin editörü
+https://github.com/RissProg/SmartHome-Project-Manager
+
+### 📝 IdentityEntityFramework - HaberSitesi
+
+Bu proje, ASP.NET Core MVC altyapısı kullanılarak geliştirilmiş, güvenli kimlik doğrulama mekanizmalarına (ASP.NET Core Identity) ve güçlü bir veritabanı yönetim katmanına (Entity Framework Core) sahip dinamik bir haber platformudur.
+
+https://github.com/RissProg/IdentityEntityFramework-HaberSitesi
 
 ---
 
