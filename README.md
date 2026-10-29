@@ -19,16 +19,14 @@
 🎓 Bilgisayar Mühendisliği Adayı
 🔐 Siber Güvenlik Meraklısı
 ⚙️ Yazılım Geliştirici
-🎯 Hedef: Savunma Sanayisinde Yazılım Mühendisi
+🎯 Hedef: Siber Güvenlik Uzmanlığı
 ```
 
 Yazılım geliştirme, sistem programlama ve siber güvenlik alanlarında kendimi sürekli geliştiriyorum.
 
 Amacım;
 
-- Savunma sanayisinde görev almak
 - Güvenli yazılım geliştirmek
-- Büyük ölçekli sistemler üretmek
 - Açık kaynak projelere katkı sağlamak
 - Sürekli öğrenmeye devam etmek
 
@@ -41,7 +39,6 @@ Amacım;
 - ⚡ Backend Development
 - 🌐 Web Teknolojileri
 - 🔍 Reverse Engineering
-- 🧠 Algoritmalar
 - 🐧 Linux
 - 🔒 Network Security
 
