@@ -114,7 +114,7 @@ https://github.com/WhoIsVushi/IdentityEntityFramework-HaberSitesi
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RissProg&theme=react-dark&hide_border=true&color=DCCBFF"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WhoIsVushi&theme=react-dark&hide_border=true&color=DCCBFF"/>
 
 </p>
 
