@@ -62,13 +62,6 @@ Amacım;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WhoIsVushi&theme=github_dark&title_color=8A2BFF&text_color=EDE3FF&bg_color=240044&border_color=493064"/>
 </p>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=WhoIsVushi&hide_border=true&background=240044&ring=8A2BFF&fire=B58AFF&currStreakLabel=EDE3FF&sideLabels=EDE3FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=BCA6DD"/>
-
-</p>
-
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WhoIsVushi&show_icons=true&hide_border=true&title_color=8A2BFF&icon_color=B58AFF&text_color=EDE3FF&bg_color=240044"/>
 </p>
 
 ---
