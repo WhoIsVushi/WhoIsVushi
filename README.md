@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BFF,100:240044&height=300&section=header&text=RissProg&fontColor=EDE3FF&fontSize=55&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BFF,100:240044&height=300&section=header&text=Vushi&fontColor=EDE3FF&fontSize=55&animation=fadeIn"/>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=DCCBFF&center=true&vCenter=true&width=900&lines=Merhaba+Ben+Can+%7C+RissProg;Yazilim+Gelistirici+Ve+Ogrenciyim;Siber+Guvenlige+Ilgi+Duyuyorum;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=DCCBFF&center=true&vCenter=true&width=900&lines=Merhaba+Ben+Can+%7C+Vushi;Yazilim+Gelistirici+Ve+Ogrenciyim;Siber+Guvenlige+Ilgi+Duyuyorum;" alt="Typing SVG" />
 </h1>
 
 
