@@ -58,16 +58,17 @@ Amacım;
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RissProg&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WhoIsVushi&theme=github_dark&title_color=8A2BFF&text_color=EDE3FF&bg_color=240044&border_color=493064"/>
+</p>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RissProg&theme=chartreuse-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=WhoIsVushi&hide_border=true&background=240044&ring=8A2BFF&fire=B58AFF&currStreakLabel=EDE3FF&sideLabels=EDE3FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=BCA6DD"/>
 
 </p>
 
+
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RissProg&theme=github_dark"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WhoIsVushi&show_icons=true&hide_border=true&title_color=8A2BFF&icon_color=B58AFF&text_color=EDE3FF&bg_color=240044"/>
 </p>
 
 ---
@@ -87,19 +88,19 @@ Amacım;
 
 Kamera üzerinden el hareketlerini algılayıp uygulama, klasör veya web sitesi açan masaüstü uygulaması.
 
-https://github.com/RissProg/GestureLauncher
+https://github.com/WhoIsVushi/GestureLauncher
 
 ### 🏠 SmartHome Project Manager — SaaS
 
 Akıllı ev entegratörleri, elektrik ve otomasyon firmaları için çok kiracılı (multi-tenant) proje, keşif, maliyet, teklif ve abonelik yönetim platformu.
 
-https://github.com/RissProg/SmartHome-Project-Manager
+https://github.com/WhoIsVushi/SmartHome-Project-Manager
 
 ### 📝 IdentityEntityFramework - HaberSitesi
 
 Bu proje, ASP.NET Core MVC altyapısı kullanılarak geliştirilmiş, güvenli kimlik doğrulama mekanizmalarına (ASP.NET Core Identity) ve güçlü bir veritabanı yönetim katmanına (Entity Framework Core) sahip dinamik bir haber platformudur.
 
-https://github.com/RissProg/IdentityEntityFramework-HaberSitesi
+https://github.com/WhoIsVushi/IdentityEntityFramework-HaberSitesi
 
 ---
 
@@ -120,7 +121,7 @@ https://github.com/RissProg/IdentityEntityFramework-HaberSitesi
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RissProg&theme=react-dark&hide_border=true&color=00ff00"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RissProg&theme=react-dark&hide_border=true&color=DCCBFF"/>
 
 </p>
 
@@ -130,11 +131,11 @@ https://github.com/RissProg/IdentityEntityFramework-HaberSitesi
 
 <p align="center">
 
-<a href="mailto:ozinceidriscan@gmail.com">
+<a href="mailto:can.ozince@pm.me">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/RissProg">
+<a href="https://github.com/WhoIsVushi">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -144,8 +145,8 @@ https://github.com/RissProg/IdentityEntityFramework-HaberSitesi
 
 <p align="center">
 
-### 💚 "Code Secure. Think Different. Never Stop Learning."
+### 💜 "Code Secure. Think Different. Never Stop Learning."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:00ff00&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BFF,100:24004400&height=120&section=footer"/>
 
 </p>
