@@ -75,23 +75,20 @@ Amacım;
 
 # 📂 Öne Çıkan Projeler
 
-###  📷 Gesture Launcher
-
-Kamera üzerinden el hareketlerini algılayıp uygulama, klasör veya web sitesi açan masaüstü uygulaması.
+📷 Gesture Launcher — El Hareketleriyle Uygulama Başlatıcı
+Kamera üzerinden el hareketlerini algılayarak uygulama, klasör veya web sitesi açan masaüstü uygulaması. Tanımlanan hareketleri kısayollara dönüştürerek bilgisayarı dokunmadan kontrol etmeyi sağlar.
 
 https://github.com/WhoIsVushi/GestureLauncher
 
-### 🏠 SmartHome Project Manager — SaaS
-
-Akıllı ev entegratörleri, elektrik ve otomasyon firmaları için çok kiracılı (multi-tenant) proje, keşif, maliyet, teklif ve abonelik yönetim platformu.
+🏠 SmartHome Project Manager SaaS — Akıllı Ev Proje Yönetimi
+Akıllı ev entegratörleri, elektrik ve otomasyon firmaları için geliştirilen çok kiracılı bir proje yönetim platformu. Proje, keşif, maliyet, teklif ve abonelik süreçlerini tek bir sistem üzerinden yönetmeyi sağlar.
 
 https://github.com/WhoIsVushi/SmartHome-Project-Manager
 
-### 📝 IdentityEntityFramework - HaberSitesi
+🪛 TechnicalServiceSoftware — Teknik Servis Programı
+C#, .NET ve WPF ile geliştirilen; müşteri, cihaz, arıza tespiti, onarım ve stok süreçlerini yöneten masaüstü uygulaması. Teklif ve müşteri onayından tahsilat ve cihaz teslimine kadar servis akışını takip eder; barkodlu etiket, raporlama ve kullanıcı yetkilendirme özellikleri sunar.
 
-Bu proje, ASP.NET Core MVC altyapısı kullanılarak geliştirilmiş, güvenli kimlik doğrulama mekanizmalarına (ASP.NET Core Identity) ve güçlü bir veritabanı yönetim katmanına (Entity Framework Core) sahip dinamik bir haber platformudur.
-
-https://github.com/WhoIsVushi/IdentityEntityFramework-HaberSitesi
+https://github.com/WhoIsVushi/TechicalServiceSoftware
 
 ---
 
