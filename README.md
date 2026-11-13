@@ -75,20 +75,20 @@ Amacım;
 
 # 📂 Öne Çıkan Projeler
 
-📷 Gesture Launcher — El Hareketleriyle Uygulama Başlatıcı
-Kamera üzerinden el hareketlerini algılayarak uygulama, klasör veya web sitesi açan masaüstü uygulaması. Tanımlanan hareketleri kısayollara dönüştürerek bilgisayarı dokunmadan kontrol etmeyi sağlar.
+## 📷 Gesture Launcher — El Hareketleriyle Uygulama Başlatıcı
+Kamera üzerinden el hareketleini algılayarak uygulama, klasör veya web sitesi açan masaüstü uygulaması. Tanımlanan hareketleri kısayollara dönüştürerek bilgisayarı dokunmadan kontrol etmeyi sağlar.
 
-https://github.com/WhoIsVushi/GestureLauncher
+## [ https://github.com/WhoIsVushi/GestureLauncher ]
 
-🏠 SmartHome Project Manager SaaS — Akıllı Ev Proje Yönetimi
+## 🏠 SmartHome Project Manager SaaS — Akıllı Ev Proje Yönetimi
 Akıllı ev entegratörleri, elektrik ve otomasyon firmaları için geliştirilen çok kiracılı bir proje yönetim platformu. Proje, keşif, maliyet, teklif ve abonelik süreçlerini tek bir sistem üzerinden yönetmeyi sağlar.
 
-https://github.com/WhoIsVushi/SmartHome-Project-Manager
+## [ https://github.com/WhoIsVushi/SmartHome-Project-Manager ]
 
-🪛 TechnicalServiceSoftware — Teknik Servis Programı
+## 🪛 TechnicalServiceSoftware — Teknik Servis Programı
 C#, .NET ve WPF ile geliştirilen; müşteri, cihaz, arıza tespiti, onarım ve stok süreçlerini yöneten masaüstü uygulaması. Teklif ve müşteri onayından tahsilat ve cihaz teslimine kadar servis akışını takip eder; barkodlu etiket, raporlama ve kullanıcı yetkilendirme özellikleri sunar.
 
-https://github.com/WhoIsVushi/TechicalServiceSoftware
+## [ https://github.com/WhoIsVushi/TechicalServiceSoftware ]
 
 ---
 
