@@ -90,6 +90,11 @@ C#, .NET ve WPF ile geliştirilen; müşteri, cihaz, arıza tespiti, onarım ve 
 
 ## [ https://github.com/WhoIsVushi/TechicalServiceSoftware ]
 
+## 📝 SocialQuizPlatfrom - Sosyal Test Programı
+Next.js, React, TypeScript ve PostgreSQL ile geliştirilen; kişiye özel arkadaşlık testleri oluşturmayı ve paylaşmayı sağlayan web uygulaması. Üyeliksiz test katılımı, otomatik puanlama, sonuç analizi ve sıralama özellikleri sunar; hazır şablonlar ve yönetim paneliyle test oluşturma ve takip süreçlerini kolaylaştırır.
+
+## [ https://github.com/WhoIsVushi/social-quiz-platform ]
+
 ---
 
 # 🎯 2026 Hedefleri
